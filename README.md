@@ -49,9 +49,9 @@ este último un fanzine interactivo con poemas para labios.
 Como poeta digital, explora el cruce entre lenguaje, tecnología y cuerpo. Ha creado obras como Consumo Consumación (2021), una serie de poemas-glitch que utilizan códigos QR; 
 Esta historia no está disponible (2023), con visuales generados en p5.js, hydraojack y blackout digital; y Sad Trash (2023), libro para historias de Instagram, seleccionado para el pabellón Verbivocovisual 
 de la Wrong Biennale y para el Volumen II de la revista Lit(e)Lat.
-
-En 2017 participó en la primera residencia del FIPR. En 2023 fue convocada al ciclo Poesía en voz alta del Festival Poesía YA! y en 2025 al 19º Festival Mundial de Poesía de Venezuela. 
+En 2017 participó en la primera residencia del FIPR y en 2023 fue convocada al ciclo Poesía en voz alta del Festival Poesía YA! y en 2025, al 19º Festival Mundial de Poesía de Venezuela. 
 Su obra ha sido publicada en revistas como DigoPalabra.TXT, La Tribu, Aura poesía visual, Poetas siglo XXI, Low-Fi ardentía y Vuela palabra, entre otras.
+
 ---
 
 ## Referencias teóricas
