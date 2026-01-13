@@ -19,7 +19,7 @@ El “virus poeta” no destruye archivos ni daña el sistema operativo. Infecta
 
 ## Cómo ejecutar
 
-⚠️ **Advertencia conceptual**: este proyecto simula el comportamiento de un virus. No es destructivo, pero está pensado para incomodar.
+⚠️ **Advertencia**: este proyecto simula el comportamiento de un virus. No es destructivo, pero está pensado para incomodar.
 
 1. Accedé a la carpeta `game`.
 2. Ejecutá el archivo:
