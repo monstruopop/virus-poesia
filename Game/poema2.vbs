@@ -49,6 +49,6 @@ lol=msgbox("¡INSTALANDO POESÍA!",20,"FORMATEANDO..." )
 lol=msgbox("Todos los datos fueron ELIMINADOS",20,"FATAL ERROR 404" ) 
 lol=msgbox("Voy hacia nunca, hacia ninguna parte, Como un tren sobre el abismo.",20,"Ajmátova 404" ) 
 lol=msgbox("Instalación completa. Poeta DJ by Marlene Font",20,"Instalación exitosa..." ) 
-lol=msgbox("Instalación completa. Poema de voz by Marlene Font y Marcos Freites",20,"PERNICIOSA LITER/HARTURA" ) 
+lol=msgbox("Instalación completa. Poema de voz by Marlene Font",20,) 
 lol=msgbox("si el virus.adj no da vida, mata",20,"bye" ) 
 
